@@ -1,1 +1,3 @@
-# CPTS_101
+Name: Collin Meyer
+
+Email: Collin.Meyer@wsu.edu
